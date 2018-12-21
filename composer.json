@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kissifrot/php-ixr": "^1.8",
+        "symfony/console": "^4.2"
+    }
+}

@@ -1,0 +1,7 @@
+http://ping.blo.gs/
+http://ping.fc2.com
+http://rpc.pingomatic.com
+http://rpc.twingly.com
+http://www.blogdigger.com/RPC2
+http://ping.bloggers.jp/rpc/
+http://www.blogpeople.net/servlet/weblogUpdates
